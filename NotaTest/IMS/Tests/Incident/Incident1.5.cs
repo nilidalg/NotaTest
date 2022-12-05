@@ -61,6 +61,7 @@ namespace IMS.Tests.Incident1_5
         }
 
         [Test]
+        [Category("FirstCase")]
         public void TestIncident1_5()
         {
             test = extent.StartTest("Создание инцидента");
