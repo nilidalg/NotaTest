@@ -211,3 +211,17 @@ C:\Users\nilidalg\source\repos\NotaTest\NotaTest\obj\Release\NotaTest.csproj.Cor
 C:\Users\nilidalg\source\repos\NotaTest\NotaTest\obj\Release\NotaTest.csproj.CopyComplete
 C:\Users\nilidalg\source\repos\NotaTest\NotaTest\obj\Release\NotaTest.dll
 C:\Users\nilidalg\source\repos\NotaTest\NotaTest\obj\Release\NotaTest.pdb
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\obj\Release\NotaTest.csproj.AssemblyReference.cache
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\nunit.engine.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\nunit.engine.api.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\nilidalg\source\repos\NotaTest\NotaTest\bin\Release\Microsoft.Build.Framework.xml
